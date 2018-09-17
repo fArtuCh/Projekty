@@ -3,9 +3,9 @@ Theme: K-means algorithm
 
 			Composition
 -------------------------------------------------------------
-Dataset 					:	data1.json
-Charts presenting clusters 			:	/photos
-Python script					:	k_means_pyspark.py
+Dataset 					:	data1.json |
+Charts presenting clusters 			:	/photos	|
+Python script					:	k_means_pyspark.py |
 
 _____________________________________________________________
 
