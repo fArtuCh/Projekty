@@ -2,11 +2,10 @@ Projekt nr 5 Readme.
 Theme: K-means algorithm
 
 			Composition
+Types					|          Files names
 -------------------------------------------------------------
 Dataset 				|		data1.json 
-----------------------------------------------------------------------------
 Charts presenting clusters 		|		/photos	
------------------------------------------------------------------------------
 Python script				|		k_means_pyspark.py 
 
 _____________________________________________________________
